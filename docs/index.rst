@@ -3,6 +3,9 @@ Panduan Lengkap Cara Daftar Mirae Asset Sekuritas
 
 Mirae Asset Sekuritas merupakan salah satu `perusahaan sekuritas <https://navi.id>`_ terkemuka di Indonesia yang menyediakan berbagai layanan investasi untuk memenuhi kebutuhan investor. Dengan platform perdagangan modern dan beragam produk investasi, Mirae Asset Sekuritas menjadi pilihan yang populer bagi individu dan institusi yang ingin mengembangkan portofolio investasi mereka. Bagi Anda yang tertarik untuk bergabung sebagai nasabah Mirae Asset Sekuritas, berikut adalah panduan lengkap cara mendaftar:
 
+.. image:: https://rec-data.kalibrr.com/www.kalibrr.com/logos/GF54H9ZS6QN3T5BEAW28D7ZW7RAHGN4FA7U8QK8K-5fdb0fee.png
+  :alt: Alternative text
+
 Persiapan:
 ----------
 
